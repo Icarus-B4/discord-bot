@@ -10,7 +10,7 @@ import asyncio
 load_dotenv()
 PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY")
 DISCORD_BOT_TOKEN = os.getenv("DISCORD_TOKEN")
-TRADING_HUB_ID = 1471664237771489441  # Dein Kanal
+TRADING_HUB_ID =   # Dein Kanal
 MAX_RESPONSE_LENGTH = 1900
 
 intents = discord.Intents.default()
