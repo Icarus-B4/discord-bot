@@ -74,7 +74,7 @@ Der Bot merkt sich deine vorherigen Fragen, sodass du Rückfragen stellen kannst
 
 ## 📝 Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Details findest du in der [LICENSE](LICENSE) Datei.
+Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Details findest du in der [LICENSE](https://github.com/Icarus-B4/discord-bot/blob/main/LICENSE.md) Datei.
 
 ---
 
